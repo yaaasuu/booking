@@ -1,0 +1,11 @@
+{
+    "events":[
+        {
+        "event_id": "...set at runtime...",
+        "title": "...set at runtime...",
+        "start": "...set at runtime...",
+        "end": "...set at runtime...",
+        "assignee": 1
+        }
+    ]
+}
